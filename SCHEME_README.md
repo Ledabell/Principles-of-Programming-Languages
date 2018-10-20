@@ -50,7 +50,7 @@ The ball-val function takes one argument, a ball of some color, and returns the 
 
 Sample usage:
 > (ball-val 'R)
-10
+returns: 10
 
 ```
 (define (count-balls ball bucket)
