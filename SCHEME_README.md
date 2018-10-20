@@ -1,11 +1,12 @@
 # Scheme Project 
 
-This is foo project brief description. We can add some interesting stuff to make Foo functions work and test it across different cases.
+This is a description of the Scheme project. We can us the given functions to evaluate buckets of colored balls and judge which one has the highest point value.
 
-* This is the best feature of Foo Project.
+* The main feature is the judge function used to find the best of two buckets.
+* You can also use the other 4 functions to find out more info about each individual bucket.
 
 ### Quick start
-**Make sure you have Foo OS version >= 800.0 and (Foo Package Manager >= 500BC**
+**Make sure you have the latest version of DrRacket downloaded.
 
 > Clone/Download the solution then run `funfair_scheme.rkt`
 
@@ -20,18 +21,11 @@ Open funfair_scheme.rkt in DrRacket and hit run at the top right. Enter in funct
 
 # Table of Contents
 * [Foo chapter](#foo-chapter)
-* [Installing](#installing)
 * [Running the app](#running-the-app)
 * [License](#license)
 * [Author](#author)
 
 #### Foo chapter
-
-Some interesting stuff here .......
-
-___
-
-#### Installing
 
 Some interesting stuff here .......
 
