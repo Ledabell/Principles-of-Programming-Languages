@@ -118,9 +118,17 @@ The program runs with O(n) time complexity.
 ___
 
 #### Sample Test Case
+```
+; Bucket_1
+(bucket-val '(R B G R R R B W R W)) returns: 107
+(color-counts '(R B G R R R B W R W)) returns: '(5 1 2 2)
+```
 
-some image or output is shown by Foo program execution......
-
+```
+; Bucket_2
+(bucket-val '(W R R R R G B B G W)) returns: 112
+(color-counts '(W R R R R G B B G W)) returns: '(4 2 2 2)
+```
 ___
 
 #### License
