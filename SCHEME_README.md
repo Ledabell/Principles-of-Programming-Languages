@@ -20,12 +20,16 @@ Open funfair_scheme.rkt in DrRacket and hit run at the top right. Enter in funct
 ```
 
 # Table of Contents
-* [Foo chapter](#foo-chapter)
-* [Running the app](#running-the-app)
+* [Scheme chapter](#scheme-chapter)
+* [API Intro](#api-intro)
+* [Implementation](#implementation)
+* [API Intro](#api-intro)
+* [Time Complexity](#time-complexity)
+* [Sample Test Case](#sample-test-case)
 * [License](#license)
 * [Author](#author)
 
-#### Foo chapter
+#### Scheme chapter
 
 Some interesting stuff here .......
 
@@ -52,19 +56,19 @@ end
 ```
 ___
 
-#### Implementation of Foo
+#### Implementation
 
 The Foo program is implemented with Observer and Delegation Design Pattern. At a lower level, the program also uses Queue to keep time complexity O(n). 
 
 ___
 
-#### Program Time Complexity
+#### Time Complexity
 
 The program runs with O(n) time complexity.
 
 ___
 
-#### Result of Sample Test Case
+#### Sample Test Case
 
 some image or output is shown by Foo program execution......
 
