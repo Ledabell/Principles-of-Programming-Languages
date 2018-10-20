@@ -1,23 +1,20 @@
-# Foo Project 
+# Scheme Project 
 
 This is foo project brief description. We can add some interesting stuff to make Foo functions work and test it across different cases.
 
 * This is the best feature of Foo Project.
-* I am an optimized feature of Foo Project.
-* I am a future feature of Foo Project.
-* I am a silly bug of Foo Project. 
 
 ### Quick start
 **Make sure you have Foo OS version >= 800.0 and (Foo Package Manager >= 500BC**
 
-> Clone/Download the solution then run `main_foo.rb`
+> Clone/Download the solution then run `funfair_scheme.rkt`
 
 ```
 
 # Download all files from canvas
 
 # For Mac OSX
-$ ruby main_foo.rb
+Open funfair_scheme.rkt in DrRacket and hit run at the top right. Enter in function calls as desired.
 
 ```
 
@@ -85,4 +82,4 @@ ___
 ___
 
 ## Author
- [Jay Patel](/LICENSE)
+ [Aleha Crumpton](/LICENSE)
