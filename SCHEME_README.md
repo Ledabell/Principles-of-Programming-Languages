@@ -129,6 +129,11 @@ ___
 (bucket-val '(W R R R R G B B G W)) returns: 112
 (color-counts '(W R R R R G B B G W)) returns: '(4 2 2 2)
 ```
+
+```
+; Judge buckets
+(judge '(R B G R R R B W R W) '(W R R R R G B B G W)) returns: Bucket 2 Won!
+```
 ___
 
 #### License
