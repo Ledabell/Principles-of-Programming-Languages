@@ -63,7 +63,7 @@ The count-balls function takes two arguments, a ball of some color and a bucket.
 
 Sample usage:
 > (count-balls 'R '(R B G R R R B W R W))
-5
+returns: 5
 
 ```
 (define (color-counts bucket)
@@ -76,7 +76,7 @@ The color-counts funtion takes one argument, a bucket containing colored balls. 
 
 Sample usage:
 > (color-counts '(R B G R R R B W R W))
-'(5 1 2 2)
+returns: '(5 1 2 2)
 
 ```
 (define (bucket-val bucket)
@@ -89,7 +89,7 @@ The bucket-val function takes one argument, a bucket containing colored balls. T
 
 Sample usage:
 > (bucket-val '(R B G R R R B W R W))
-107
+returns: 107
 
 ```
 (define (judge bucket_1 bucket_2)
@@ -102,7 +102,7 @@ The judge function takes two arguments, two buckets containing colored balls. Th
 
 Sample usage:
 > (judge '(R B G R R R B W R W) '(W R R R R G B B G W))
-Bucket 2 Won!
+returns: Bucket 2 Won!
 ___
 
 #### Implementation
